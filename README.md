@@ -1,4 +1,4 @@
-# GRIP-TSF-Data-Science-And-Business-Analytics
+# GRIP-TSF-Data Science And Business Analytics
  ----
 ## Task 1: [Prediction using Supervised ML]
  ----
