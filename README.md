@@ -1,7 +1,6 @@
 # GRIP-TSF-Data-Science-And-Business-Analytics
  ----
 ## Task 1: [Prediction using Supervised ML]
- (https://github.com/yogeshbalani/TSF-DataScience-and-Business-Analytics/blob/main/Task01.ipynb)
  ----
 ### To-Do:
    - Predict the percentage of an student based on the no. of study hours.
