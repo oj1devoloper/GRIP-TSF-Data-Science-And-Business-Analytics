@@ -12,3 +12,14 @@
 ### Dataset:
    - http://bit.ly/w-data
 ----
+## Task 1: [Prediction using Unsupervised ML]
+ ----
+### To-Do:
+   - From the given ‘Iris’ dataset, predict the optimum number of clusters 
+     and represent it visually
+----   
+### Language used:
+   - Python
+----
+### Dataset:
+   - https://bit.ly/3kXTdox
