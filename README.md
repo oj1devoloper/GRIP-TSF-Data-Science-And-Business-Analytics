@@ -12,7 +12,7 @@
 ### Dataset:
    - http://bit.ly/w-data
 ----
-## Task 1: [Prediction using Unsupervised ML]
+## Task 2: [Prediction using Unsupervised ML]
  ----
 ### To-Do:
    - From the given ‘Iris’ dataset, predict the optimum number of clusters 
