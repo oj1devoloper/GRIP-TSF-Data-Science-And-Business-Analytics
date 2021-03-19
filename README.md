@@ -23,3 +23,17 @@
 ----
 ### Dataset:
    - https://bit.ly/3kXTdox
+----
+Task 2: [Exploratory Data Analysis - Retail]
+----
+### To-Do:
+   - Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
+   - As a business manager, try to find out the weak areas where you can 
+     work to make more profit.
+----   
+### Language used:
+   - Python
+----
+### Dataset:
+    - https://bit.ly/3i4rbWl
+----
