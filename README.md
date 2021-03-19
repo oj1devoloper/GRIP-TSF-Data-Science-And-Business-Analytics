@@ -24,7 +24,7 @@
 ### Dataset:
    - https://bit.ly/3kXTdox
 ----
-Task 2: [Exploratory Data Analysis - Retail]
+Task 3: [Exploratory Data Analysis - Retail]
 ----
 ### To-Do:
    - Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
@@ -35,5 +35,5 @@ Task 2: [Exploratory Data Analysis - Retail]
    - Python
 ----
 ### Dataset:
-    - https://bit.ly/3i4rbWl
+   - https://bit.ly/3i4rbWl
 ----
