@@ -1,6 +1,6 @@
 # GRIP-TSF-Data Science And Business Analytics
  ----
-## Task 1: [Prediction using Supervised ML]
+1. ## Task 1: [Prediction using Supervised ML]
  ----
 ### To-Do:
    - Predict the percentage of an student based on the no. of study hours.
